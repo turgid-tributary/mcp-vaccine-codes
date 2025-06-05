@@ -4,6 +4,13 @@ Fetches the latest CDC vaccine code mapping and exposes tools to interact with i
 
 ## Usage
 
+```
+npm i
+npm run build
+```
+
+And then point to the `build/index.js` file in your MCP Client configuration.
+
 I've tested this using Claude Desktop as my MCP Client with 
 
 ```json
